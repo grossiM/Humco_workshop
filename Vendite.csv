@@ -1,0 +1,1255 @@
+Country,Year,Product line,Order method type,Quantity,Revenue
+Australia,2011,Camping Equipment,E-mail,1382,140139.11
+Australia,2011,Outdoor Protection,E-mail,609,2984.1
+Australia,2011,Personal Accessories,E-mail,1738,28284.07
+Australia,2011,Camping Equipment,Mail,1493,116379.05
+Australia,2011,Outdoor Protection,Mail,1244,6645.38
+Australia,2011,Personal Accessories,Mail,108,4883.86
+Australia,2011,Camping Equipment,Sales visit,39089,2548776.26
+Australia,2011,Golf Equipment,Sales visit,11596,1536027.56
+Australia,2011,Mountaineering Equipment,Sales visit,31132,1189708.13
+Australia,2011,Outdoor Protection,Sales visit,26280,166266.34
+Australia,2011,Personal Accessories,Sales visit,12814,838945.09
+Australia,2011,Camping Equipment,Special,4801,447516.18
+Australia,2011,Outdoor Protection,Special,2999,17032.88
+Australia,2011,Personal Accessories,Special,579,21302.44
+Australia,2011,Camping Equipment,Telephone,66125,3195039.97
+Australia,2011,Golf Equipment,Telephone,12176,1790084.88
+Australia,2011,Mountaineering Equipment,Telephone,32130,1501571.02
+Australia,2011,Outdoor Protection,Telephone,46041,288321.63
+Australia,2011,Personal Accessories,Telephone,14235,850576.95
+Australia,2011,Camping Equipment,Web,53515,3304740.44
+Australia,2011,Golf Equipment,Web,6165,768531.1
+Australia,2011,Outdoor Protection,Web,19480,119706.44
+Australia,2011,Personal Accessories,Web,14424,387389.27
+Australia,2012,Camping Equipment,E-mail,2945,418933.56
+Australia,2012,Mountaineering Equipment,E-mail,1357,10638.88
+Australia,2012,Camping Equipment,Sales visit,50000,1755716.43
+Australia,2012,Golf Equipment,Sales visit,8544,1487319.09
+Australia,2012,Mountaineering Equipment,Sales visit,7801,420293.36
+Australia,2012,Outdoor Protection,Sales visit,22445,156471.43
+Australia,2012,Personal Accessories,Sales visit,5918,244332.43
+Australia,2012,Camping Equipment,Telephone,71697,2522218.73
+Australia,2012,Golf Equipment,Telephone,2505,454709.06
+Australia,2012,Mountaineering Equipment,Telephone,13417,405739.54
+Australia,2012,Outdoor Protection,Telephone,3043,18818.26
+Australia,2012,Personal Accessories,Telephone,11768,417495.46
+Australia,2012,Camping Equipment,Web,215771,14479088.48
+Australia,2012,Golf Equipment,Web,43636,6540410.52
+Australia,2012,Mountaineering Equipment,Web,107824,5024581.34
+Australia,2012,Outdoor Protection,Web,30746,192346.69
+Australia,2012,Personal Accessories,Web,83212,4419689.36
+Australia,2013,Camping Equipment,Sales visit,17244,477223.74
+Australia,2013,Golf Equipment,Sales visit,576,111395.65
+Australia,2013,Outdoor Protection,Sales visit,76,0
+Australia,2013,Personal Accessories,Sales visit,3431,174426.75
+Australia,2013,Camping Equipment,Telephone,19863,1286338.71
+Australia,2013,Mountaineering Equipment,Telephone,22315,937947.02
+Australia,2013,Personal Accessories,Telephone,1560,126149.58
+Australia,2013,Camping Equipment,Web,188598,11243821.53
+Australia,2013,Golf Equipment,Web,45922,6391078.57
+Australia,2013,Mountaineering Equipment,Web,113989,4442640.77
+Australia,2013,Outdoor Protection,Web,26289,171750.41
+Australia,2013,Personal Accessories,Web,77273,3960901.52
+Austria,2010,Camping Equipment,Sales visit,2332,300767.31
+Austria,2010,Golf Equipment,Sales visit,234,185653.56
+Austria,2010,Outdoor Protection,Sales visit,443,9883.33
+Austria,2010,Personal Accessories,Sales visit,2525,55521
+Austria,2010,Camping Equipment,Special,2035,125924.48
+Austria,2010,Outdoor Protection,Special,4089,19667.75
+Austria,2010,Personal Accessories,Special,2796,84709.7
+Austria,2010,Camping Equipment,Telephone,74690,4286777.44
+Austria,2010,Golf Equipment,Telephone,14218,1504406.56
+Austria,2010,Outdoor Protection,Telephone,81934,557480.17
+Austria,2010,Personal Accessories,Telephone,22382,1282690.65
+Austria,2010,Camping Equipment,Web,46349,2718325.94
+Austria,2010,Golf Equipment,Web,9075,1721557
+Austria,2010,Outdoor Protection,Web,38281,236995.59
+Austria,2010,Personal Accessories,Web,23538,775644.04
+Austria,2011,Camping Equipment,Sales visit,10585,1059551.79
+Austria,2011,Golf Equipment,Sales visit,906,223538.58
+Austria,2011,Outdoor Protection,Sales visit,2455,16889.25
+Austria,2011,Personal Accessories,Sales visit,1956,23138.21
+Austria,2011,Camping Equipment,Telephone,66647,3335759.84
+Austria,2011,Golf Equipment,Telephone,4750,601048.62
+Austria,2011,Mountaineering Equipment,Telephone,34826,1360674.72
+Austria,2011,Outdoor Protection,Telephone,48938,299044.41
+Austria,2011,Personal Accessories,Telephone,16521,889262.73
+Austria,2011,Camping Equipment,Web,91527,4768108.3
+Austria,2011,Golf Equipment,Web,29892,3641412.27
+Austria,2011,Mountaineering Equipment,Web,30574,1254664.49
+Austria,2011,Outdoor Protection,Web,52833,324287.98
+Austria,2011,Personal Accessories,Web,33236,1546305.29
+Austria,2012,Camping Equipment,Sales visit,75563,4200927.91
+Austria,2012,Golf Equipment,Sales visit,618,250269.56
+Austria,2012,Mountaineering Equipment,Sales visit,53823,2052637.39
+Austria,2012,Outdoor Protection,Sales visit,6896,45014.73
+Austria,2012,Personal Accessories,Sales visit,29717,1336670.15
+Austria,2012,Camping Equipment,Telephone,3872,262103.34
+Austria,2012,Mountaineering Equipment,Telephone,3321,197197.5
+Austria,2012,Outdoor Protection,Telephone,1198,7560
+Austria,2012,Personal Accessories,Telephone,774,101855.24
+Austria,2012,Camping Equipment,Web,174546,9008068.92
+Austria,2012,Golf Equipment,Web,41063,5984351.42
+Austria,2012,Mountaineering Equipment,Web,49026,2344341.59
+Austria,2012,Outdoor Protection,Web,37529,242379.82
+Austria,2012,Personal Accessories,Web,42861,2315590.09
+Austria,2013,Camping Equipment,Sales visit,32942,1554491
+Austria,2013,Golf Equipment,Sales visit,75,28925
+Austria,2013,Mountaineering Equipment,Sales visit,39333,1245749.65
+Austria,2013,Outdoor Protection,Sales visit,164,0
+Austria,2013,Personal Accessories,Sales visit,13173,832838.5
+Austria,2013,Camping Equipment,Web,143172,8177157.11
+Austria,2013,Golf Equipment,Web,35981,4980978.66
+Austria,2013,Mountaineering Equipment,Web,55253,2681243.51
+Austria,2013,Outdoor Protection,Web,19896,130312.39
+Austria,2013,Personal Accessories,Web,49406,2350070.61
+Belgium,2011,Camping Equipment,Sales visit,35864,1924571.07
+Belgium,2011,Mountaineering Equipment,Sales visit,53471,2408840.18
+Belgium,2011,Outdoor Protection,Sales visit,27675,165144.45
+Belgium,2011,Personal Accessories,Sales visit,4992,454005.21
+Belgium,2011,Camping Equipment,Web,156955,9202027.11
+Belgium,2011,Golf Equipment,Web,35917,4463066.16
+Belgium,2011,Mountaineering Equipment,Web,13642,390397.89
+Belgium,2011,Outdoor Protection,Web,100352,606342.93
+Belgium,2011,Personal Accessories,Web,47454,1939853.84
+Belgium,2012,Camping Equipment,Fax,10679,661106.25
+Belgium,2012,Mountaineering Equipment,Fax,13434,555017.5
+Belgium,2012,Outdoor Protection,Fax,213,582
+Belgium,2012,Personal Accessories,Fax,4090,347614.98
+Belgium,2012,Camping Equipment,Sales visit,15007,1157336.95
+Belgium,2012,Mountaineering Equipment,Sales visit,26397,1343976.03
+Belgium,2012,Outdoor Protection,Sales visit,429,2400
+Belgium,2012,Personal Accessories,Sales visit,6999,350498.18
+Belgium,2012,Camping Equipment,Web,191994,11212981.18
+Belgium,2012,Golf Equipment,Web,38653,5923795.01
+Belgium,2012,Mountaineering Equipment,Web,63326,2503146.04
+Belgium,2012,Outdoor Protection,Web,40062,262532.82
+Belgium,2012,Personal Accessories,Web,64588,3024834.23
+Belgium,2013,Camping Equipment,Fax,7947,261579.29
+Belgium,2013,Mountaineering Equipment,Fax,9006,262018.13
+Belgium,2013,Personal Accessories,Fax,5784,198639.17
+Belgium,2013,Camping Equipment,Web,147931,8630818.74
+Belgium,2013,Golf Equipment,Web,27394,4331556.67
+Belgium,2013,Mountaineering Equipment,Web,81456,3280603.33
+Belgium,2013,Outdoor Protection,Web,17721,113206.98
+Belgium,2013,Personal Accessories,Web,53284,2744572.38
+Brazil,2010,Camping Equipment,Fax,22307,1434913.98
+Brazil,2010,Golf Equipment,Fax,760,134604.05
+Brazil,2010,Outdoor Protection,Fax,37602,217080.95
+Brazil,2010,Personal Accessories,Fax,14540,686610.51
+Brazil,2010,Camping Equipment,Sales visit,645,30071.14
+Brazil,2010,Golf Equipment,Sales visit,190,171321.47
+Brazil,2010,Personal Accessories,Sales visit,177,17436.37
+Brazil,2010,Camping Equipment,Telephone,21661,1016269.7
+Brazil,2010,Golf Equipment,Telephone,6560,863925.82
+Brazil,2010,Outdoor Protection,Telephone,20036,140845.38
+Brazil,2010,Personal Accessories,Telephone,2917,226897.33
+Brazil,2010,Camping Equipment,Web,127745,7013297.77
+Brazil,2010,Golf Equipment,Web,24791,3340614.59
+Brazil,2010,Outdoor Protection,Web,99056,662267.77
+Brazil,2010,Personal Accessories,Web,36992,1610734.38
+Brazil,2011,Camping Equipment,Web,195779,11613962.19
+Brazil,2011,Golf Equipment,Web,35831,4620832.48
+Brazil,2011,Mountaineering Equipment,Web,76612,2987555.24
+Brazil,2011,Outdoor Protection,Web,108462,673818.65
+Brazil,2011,Personal Accessories,Web,56500,2684077.49
+Brazil,2012,Camping Equipment,Web,221521,14080643.24
+Brazil,2012,Golf Equipment,Web,41558,6185100.85
+Brazil,2012,Mountaineering Equipment,Web,98337,4556862.2
+Brazil,2012,Outdoor Protection,Web,44890,290958.46
+Brazil,2012,Personal Accessories,Web,80308,3826304.17
+Brazil,2013,Camping Equipment,E-mail,1182,273381.27
+Brazil,2013,Outdoor Protection,E-mail,965,8127
+Brazil,2013,Personal Accessories,E-mail,478,48928.16
+Brazil,2013,Camping Equipment,Web,161498,9369955.89
+Brazil,2013,Golf Equipment,Web,32589,4733649.19
+Brazil,2013,Mountaineering Equipment,Web,91006,3780853.8
+Brazil,2013,Outdoor Protection,Web,17928,115555.98
+Brazil,2013,Personal Accessories,Web,59921,3117447.94
+Canada,2010,Camping Equipment,E-mail,214504,11180189.65
+Canada,2010,Golf Equipment,E-mail,41047,5332282.7
+Canada,2010,Outdoor Protection,E-mail,184676,1245599.15
+Canada,2010,Personal Accessories,E-mail,52284,2551066.01
+Canada,2010,Camping Equipment,Fax,8815,583471.63
+Canada,2010,Golf Equipment,Fax,3887,624851.13
+Canada,2010,Outdoor Protection,Fax,4632,33701.41
+Canada,2010,Personal Accessories,Fax,347,28173.08
+Canada,2010,Camping Equipment,Sales visit,1319,146385.54
+Canada,2010,Outdoor Protection,Sales visit,4854,30348.9
+Canada,2010,Personal Accessories,Sales visit,4532,202698.52
+Canada,2010,Camping Equipment,Special,33296,2227278.91
+Canada,2010,Golf Equipment,Special,10466,1482500.7
+Canada,2010,Outdoor Protection,Special,48108,282344.82
+Canada,2010,Personal Accessories,Special,14280,774170.37
+Canada,2010,Camping Equipment,Telephone,11169,608096.02
+Canada,2010,Outdoor Protection,Telephone,8672,57144.61
+Canada,2010,Personal Accessories,Telephone,3987,135300.91
+Canada,2010,Camping Equipment,Web,122215,7767191.33
+Canada,2010,Golf Equipment,Web,15874,2853635.78
+Canada,2010,Outdoor Protection,Web,132810,832044.17
+Canada,2010,Personal Accessories,Web,57807,2490407.53
+Canada,2011,Camping Equipment,E-mail,79090,4313617.94
+Canada,2011,Golf Equipment,E-mail,23371,2939575.88
+Canada,2011,Mountaineering Equipment,E-mail,27211,1018196.76
+Canada,2011,Outdoor Protection,E-mail,37582,247873.48
+Canada,2011,Personal Accessories,E-mail,14546,884605
+Canada,2011,Camping Equipment,Mail,23647,1095261.23
+Canada,2011,Golf Equipment,Mail,1765,151862.04
+Canada,2011,Mountaineering Equipment,Mail,6794,295891.66
+Canada,2011,Outdoor Protection,Mail,8468,54292.98
+Canada,2011,Personal Accessories,Mail,2873,233507.46
+Canada,2011,Camping Equipment,Sales visit,10217,463737.57
+Canada,2011,Mountaineering Equipment,Sales visit,18481,936130.88
+Canada,2011,Outdoor Protection,Sales visit,16613,98975.3
+Canada,2011,Personal Accessories,Sales visit,5324,336361.96
+Canada,2011,Camping Equipment,Telephone,8890,1365169.99
+Canada,2011,Golf Equipment,Telephone,910,249474.69
+Canada,2011,Outdoor Protection,Telephone,7327,47092.7
+Canada,2011,Personal Accessories,Telephone,3338,89096.24
+Canada,2011,Camping Equipment,Web,288469,17956494.83
+Canada,2011,Golf Equipment,Web,49811,6857290.45
+Canada,2011,Mountaineering Equipment,Web,115391,4389608.98
+Canada,2011,Outdoor Protection,Web,177057,1068895.1
+Canada,2011,Personal Accessories,Web,97533,4273396.97
+Canada,2012,Camping Equipment,E-mail,43757,2501787.15
+Canada,2012,Golf Equipment,E-mail,3829,1182984.1
+Canada,2012,Mountaineering Equipment,E-mail,45304,1764557.75
+Canada,2012,Outdoor Protection,E-mail,12488,80380.53
+Canada,2012,Personal Accessories,E-mail,17649,950880.21
+Canada,2012,Camping Equipment,Mail,1476,232722.31
+Canada,2012,Golf Equipment,Mail,260,79014.46
+Canada,2012,Outdoor Protection,Mail,11509,74378.05
+Canada,2012,Personal Accessories,Mail,5110,176006.5
+Canada,2012,Camping Equipment,Sales visit,51500,3442429.82
+Canada,2012,Golf Equipment,Sales visit,1826,110321.82
+Canada,2012,Mountaineering Equipment,Sales visit,62324,2669801.38
+Canada,2012,Outdoor Protection,Sales visit,5124,32758.36
+Canada,2012,Personal Accessories,Sales visit,22024,1089509.23
+Canada,2012,Camping Equipment,Telephone,60600,5205492.76
+Canada,2012,Mountaineering Equipment,Telephone,3966,294208.85
+Canada,2012,Outdoor Protection,Telephone,12426,84514.85
+Canada,2012,Personal Accessories,Telephone,40796,1016990.72
+Canada,2012,Camping Equipment,Web,352322,20836212.68
+Canada,2012,Golf Equipment,Web,90682,13395471.23
+Canada,2012,Mountaineering Equipment,Web,122287,5815195.9
+Canada,2012,Outdoor Protection,Web,63733,418731.41
+Canada,2012,Personal Accessories,Web,103662,5886744.52
+Canada,2013,Camping Equipment,E-mail,25565,1413405
+Canada,2013,Mountaineering Equipment,E-mail,67787,2351206.11
+Canada,2013,Outdoor Protection,E-mail,3471,20797
+Canada,2013,Personal Accessories,E-mail,11790,617753.55
+Canada,2013,Camping Equipment,Telephone,26677,1813787.43
+Canada,2013,Mountaineering Equipment,Telephone,29125,1421117.51
+Canada,2013,Outdoor Protection,Telephone,7723,50869.26
+Canada,2013,Personal Accessories,Telephone,18228,590260.8
+Canada,2013,Camping Equipment,Web,348223,21053149.96
+Canada,2013,Golf Equipment,Web,75929,11261330.36
+Canada,2013,Mountaineering Equipment,Web,140185,5909594.99
+Canada,2013,Outdoor Protection,Web,34468,231136.15
+Canada,2013,Personal Accessories,Web,123931,6776632.97
+China,2010,Golf Equipment,Fax,17539,2617721.26
+China,2010,Camping Equipment,Sales visit,1571,33650.82
+China,2010,Personal Accessories,Sales visit,857,77872.48
+China,2010,Camping Equipment,Special,12697,570268.97
+China,2010,Golf Equipment,Special,14955,2222629.02
+China,2010,Outdoor Protection,Special,7138,48735.84
+China,2010,Personal Accessories,Special,7416,123558.84
+China,2010,Camping Equipment,Telephone,54218,2495813.8
+China,2010,Golf Equipment,Telephone,52828,7581122.61
+China,2010,Outdoor Protection,Telephone,2120,11978
+China,2010,Personal Accessories,Telephone,4808,440138.43
+China,2010,Camping Equipment,Web,377179,22496883.86
+China,2010,Outdoor Protection,Web,413575,2626152.18
+China,2010,Personal Accessories,Web,161643,7268880.52
+China,2011,Golf Equipment,Fax,23633,3198502.46
+China,2011,Camping Equipment,Mail,386,240568.27
+China,2011,Mountaineering Equipment,Mail,6319,516994.75
+China,2011,Camping Equipment,Sales visit,35055,4123122.52
+China,2011,Mountaineering Equipment,Sales visit,15107,1022710.52
+China,2011,Outdoor Protection,Sales visit,19905,123537.23
+China,2011,Personal Accessories,Sales visit,12969,222421.09
+China,2011,Camping Equipment,Telephone,32245,1608681.82
+China,2011,Golf Equipment,Telephone,25550,4454750.94
+China,2011,Mountaineering Equipment,Telephone,43521,1846641.37
+China,2011,Outdoor Protection,Telephone,30061,176118.06
+China,2011,Personal Accessories,Telephone,11061,620004.33
+China,2011,Camping Equipment,Web,411430,21412128.25
+China,2011,Golf Equipment,Web,37208,4046287.65
+China,2011,Mountaineering Equipment,Web,117467,4312679.62
+China,2011,Outdoor Protection,Web,235254,1434034.49
+China,2011,Personal Accessories,Web,108347,5362503.98
+China,2012,Golf Equipment,Fax,7320,1170396.41
+China,2012,Outdoor Protection,Fax,2256,14408.92
+China,2012,Personal Accessories,Fax,1463,70376.6
+China,2012,Camping Equipment,Sales visit,82362,3302182.54
+China,2012,Golf Equipment,Sales visit,11006,1625850.12
+China,2012,Mountaineering Equipment,Sales visit,3240,192798.02
+China,2012,Outdoor Protection,Sales visit,5542,35026.8
+China,2012,Personal Accessories,Sales visit,250,16849.81
+China,2012,Golf Equipment,Telephone,14810,2637939.44
+China,2012,Personal Accessories,Telephone,162,15280.74
+China,2012,Camping Equipment,Web,524376,31307774.32
+China,2012,Golf Equipment,Web,68168,10518096.86
+China,2012,Mountaineering Equipment,Web,235487,10362480.67
+China,2012,Outdoor Protection,Web,96381,618228.42
+China,2012,Personal Accessories,Web,172658,8682261.99
+China,2013,Camping Equipment,Web,394116,22416662.21
+China,2013,Golf Equipment,Web,78043,11306507.83
+China,2013,Mountaineering Equipment,Web,231484,8990463.54
+China,2013,Outdoor Protection,Web,45021,290267.32
+China,2013,Personal Accessories,Web,144920,7566496.71
+Finland,2010,Camping Equipment,Fax,24554,1524971.07
+Finland,2010,Outdoor Protection,Fax,27258,176367.89
+Finland,2010,Personal Accessories,Fax,15176,471042.62
+Finland,2010,Camping Equipment,Sales visit,60050,2938447.19
+Finland,2010,Golf Equipment,Sales visit,12541,1733638.77
+Finland,2010,Outdoor Protection,Sales visit,38401,270588.51
+Finland,2010,Personal Accessories,Sales visit,21443,1005600.07
+Finland,2010,Camping Equipment,Telephone,51921,1978149.86
+Finland,2010,Outdoor Protection,Telephone,30591,187894.22
+Finland,2010,Personal Accessories,Telephone,5914,496285.52
+Finland,2010,Camping Equipment,Web,120377,8680754.41
+Finland,2010,Golf Equipment,Web,35306,4560096.99
+Finland,2010,Outdoor Protection,Web,142847,911307.41
+Finland,2010,Personal Accessories,Web,54519,2270973.88
+Finland,2011,Camping Equipment,Sales visit,15579,964652.78
+Finland,2011,Mountaineering Equipment,Sales visit,18720,722093.16
+Finland,2011,Outdoor Protection,Sales visit,28844,180053.39
+Finland,2011,Personal Accessories,Sales visit,6326,252625.63
+Finland,2011,Camping Equipment,Web,280719,16955444
+Finland,2011,Golf Equipment,Web,57269,7692814.94
+Finland,2011,Mountaineering Equipment,Web,98009,3959967.91
+Finland,2011,Outdoor Protection,Web,150963,914178.47
+Finland,2011,Personal Accessories,Web,80057,3843963.87
+Finland,2012,Camping Equipment,Web,348796,21227220.46
+Finland,2012,Golf Equipment,Web,72896,10758931.87
+Finland,2012,Mountaineering Equipment,Web,168106,7193360.75
+Finland,2012,Outdoor Protection,Web,71931,465383.84
+Finland,2012,Personal Accessories,Web,129155,6322643.56
+Finland,2013,Camping Equipment,Web,277847,16094776.21
+Finland,2013,Golf Equipment,Web,50990,8052063.05
+Finland,2013,Mountaineering Equipment,Web,155013,6105563.75
+Finland,2013,Outdoor Protection,Web,29583,192393.4
+Finland,2013,Personal Accessories,Web,103268,4951503.13
+France,2010,Camping Equipment,E-mail,255,46866.18
+France,2010,Golf Equipment,E-mail,608,65940.08
+France,2010,Camping Equipment,Fax,23115,1078495.78
+France,2010,Golf Equipment,Fax,7505,1794090.97
+France,2010,Outdoor Protection,Fax,21467,123877.64
+France,2010,Personal Accessories,Fax,3862,275605.25
+France,2010,Camping Equipment,Mail,38577,2377870.37
+France,2010,Golf Equipment,Mail,4662,220101.27
+France,2010,Outdoor Protection,Mail,29593,190291.5
+France,2010,Personal Accessories,Mail,17678,621747.64
+France,2010,Camping Equipment,Sales visit,152017,7972969.65
+France,2010,Golf Equipment,Sales visit,15770,1768956.91
+France,2010,Outdoor Protection,Sales visit,168129,1077072.58
+France,2010,Personal Accessories,Sales visit,42107,2136477.57
+France,2010,Camping Equipment,Special,4543,190804.4
+France,2010,Outdoor Protection,Special,2617,15324.76
+France,2010,Personal Accessories,Special,747,46305.61
+France,2010,Camping Equipment,Telephone,132649,6795768.08
+France,2010,Golf Equipment,Telephone,36073,5270599.31
+France,2010,Outdoor Protection,Telephone,126162,809587.33
+France,2010,Personal Accessories,Telephone,47994,2261815.91
+France,2010,Camping Equipment,Web,138569,8834880.91
+France,2010,Golf Equipment,Web,22418,3057588.89
+France,2010,Outdoor Protection,Web,135535,883951.43
+France,2010,Personal Accessories,Web,56876,2629282.07
+France,2011,Camping Equipment,Fax,40846,1941018.74
+France,2011,Golf Equipment,Fax,1969,341061.13
+France,2011,Mountaineering Equipment,Fax,16387,706290.29
+France,2011,Outdoor Protection,Fax,7796,52482.97
+France,2011,Personal Accessories,Fax,6106,429267.92
+France,2011,Camping Equipment,Sales visit,55347,3051240.21
+France,2011,Golf Equipment,Sales visit,6322,619056.03
+France,2011,Mountaineering Equipment,Sales visit,4295,183748.35
+France,2011,Outdoor Protection,Sales visit,39312,240808.38
+France,2011,Personal Accessories,Sales visit,5331,309089.36
+France,2011,Camping Equipment,Telephone,135044,7018032.07
+France,2011,Golf Equipment,Telephone,40348,4480271.03
+France,2011,Mountaineering Equipment,Telephone,31491,1328897.37
+France,2011,Outdoor Protection,Telephone,87036,520998.98
+France,2011,Personal Accessories,Telephone,35446,1508933.11
+France,2011,Camping Equipment,Web,163613,11489113.26
+France,2011,Golf Equipment,Web,25571,4123247.76
+France,2011,Mountaineering Equipment,Web,91465,3742314.2
+France,2011,Outdoor Protection,Web,137320,816926.74
+France,2011,Personal Accessories,Web,65998,2842906.89
+France,2012,Camping Equipment,E-mail,1886,197471.46
+France,2012,Golf Equipment,E-mail,613,44761.26
+France,2012,Outdoor Protection,E-mail,1691,10800.81
+France,2012,Camping Equipment,Fax,1981,181001.8
+France,2012,Camping Equipment,Sales visit,44862,2642322.22
+France,2012,Golf Equipment,Sales visit,1951,427055.29
+France,2012,Mountaineering Equipment,Sales visit,20987,760756.16
+France,2012,Outdoor Protection,Sales visit,8072,49291.8
+France,2012,Personal Accessories,Sales visit,15617,517854.07
+France,2012,Camping Equipment,Telephone,34321,1948176.43
+France,2012,Golf Equipment,Telephone,2250,437406.3
+France,2012,Mountaineering Equipment,Telephone,15995,495241.78
+France,2012,Outdoor Protection,Telephone,12545,79002.82
+France,2012,Personal Accessories,Telephone,14874,632943.38
+France,2012,Camping Equipment,Web,348995,21250660.15
+France,2012,Golf Equipment,Web,70687,10475111.31
+France,2012,Mountaineering Equipment,Web,164500,7354595.6
+France,2012,Outdoor Protection,Web,60959,395226.03
+France,2012,Personal Accessories,Web,115518,6067597.18
+France,2013,Camping Equipment,Sales visit,64496,4462404.05
+France,2013,Golf Equipment,Sales visit,10915,1541355.83
+France,2013,Mountaineering Equipment,Sales visit,28305,1155420.74
+France,2013,Outdoor Protection,Sales visit,9883,72549.79
+France,2013,Personal Accessories,Sales visit,17755,665600.89
+France,2013,Camping Equipment,Web,287825,15365556.38
+France,2013,Golf Equipment,Web,50687,7982546.84
+France,2013,Mountaineering Equipment,Web,172483,6672441.66
+France,2013,Outdoor Protection,Web,30250,182049.99
+France,2013,Personal Accessories,Web,110965,5828162.4
+Germany,2010,Camping Equipment,E-mail,204002,10852253.65
+Germany,2010,Golf Equipment,E-mail,52189,6988908.06
+Germany,2010,Outdoor Protection,E-mail,158959,1090888.51
+Germany,2010,Personal Accessories,E-mail,44803,1784552.29
+Germany,2010,Camping Equipment,Fax,10604,600405.85
+Germany,2010,Golf Equipment,Fax,1956,450646.75
+Germany,2010,Outdoor Protection,Fax,3856,21404.07
+Germany,2010,Personal Accessories,Fax,3380,139140.56
+Germany,2010,Camping Equipment,Mail,6784,851829.22
+Germany,2010,Outdoor Protection,Mail,21744,153220.17
+Germany,2010,Personal Accessories,Mail,2701,150592.6
+Germany,2010,Camping Equipment,Sales visit,106850,5575625.3
+Germany,2010,Golf Equipment,Sales visit,1296,55046.7
+Germany,2010,Outdoor Protection,Sales visit,108626,649997.28
+Germany,2010,Personal Accessories,Sales visit,45270,2505009.85
+Germany,2010,Camping Equipment,Web,75313,4543947.52
+Germany,2010,Golf Equipment,Web,14749,2401689.93
+Germany,2010,Outdoor Protection,Web,96692,565439.07
+Germany,2010,Personal Accessories,Web,43309,2081648.43
+Germany,2011,Camping Equipment,E-mail,109495,5590018.28
+Germany,2011,Golf Equipment,E-mail,17243,1698726.57
+Germany,2011,Mountaineering Equipment,E-mail,5190,219659.25
+Germany,2011,Outdoor Protection,E-mail,78390,454522.28
+Germany,2011,Personal Accessories,E-mail,18569,832052.28
+Germany,2011,Camping Equipment,Mail,21921,2369729.84
+Germany,2011,Mountaineering Equipment,Mail,20380,705440.66
+Germany,2011,Outdoor Protection,Mail,15834,100391.83
+Germany,2011,Personal Accessories,Mail,8062,170057.03
+Germany,2011,Camping Equipment,Sales visit,61794,3472628.75
+Germany,2011,Golf Equipment,Sales visit,1843,218876.63
+Germany,2011,Mountaineering Equipment,Sales visit,38326,1526927.34
+Germany,2011,Outdoor Protection,Sales visit,36870,222450.3
+Germany,2011,Personal Accessories,Sales visit,13095,703072.63
+Germany,2011,Camping Equipment,Web,185797,10932748.76
+Germany,2011,Golf Equipment,Web,54000,7280451.54
+Germany,2011,Mountaineering Equipment,Web,74642,3247779.04
+Germany,2011,Outdoor Protection,Web,131613,784909.13
+Germany,2011,Personal Accessories,Web,67362,3100621.84
+Germany,2012,Camping Equipment,E-mail,57758,3369221.67
+Germany,2012,Golf Equipment,E-mail,11622,1629019.67
+Germany,2012,Outdoor Protection,E-mail,7869,49492.5
+Germany,2012,Personal Accessories,E-mail,16189,774116.6
+Germany,2012,Camping Equipment,Fax,771,46078.65
+Germany,2012,Mountaineering Equipment,Fax,4067,53505.94
+Germany,2012,Outdoor Protection,Fax,279,1674
+Germany,2012,Personal Accessories,Fax,546,17510.22
+Germany,2012,Camping Equipment,Mail,9000,643659.39
+Germany,2012,Golf Equipment,Mail,3098,551265.76
+Germany,2012,Mountaineering Equipment,Mail,19437,823750.64
+Germany,2012,Outdoor Protection,Mail,2487,15804
+Germany,2012,Personal Accessories,Mail,6093,294673.08
+Germany,2012,Camping Equipment,Sales visit,139,20041.02
+Germany,2012,Mountaineering Equipment,Sales visit,404,15044.96
+Germany,2012,Camping Equipment,Telephone,14556,666830.99
+Germany,2012,Mountaineering Equipment,Telephone,6039,378357.5
+Germany,2012,Outdoor Protection,Telephone,8332,56134.02
+Germany,2012,Personal Accessories,Telephone,10348,759855.06
+Germany,2012,Camping Equipment,Web,357304,21779422.57
+Germany,2012,Golf Equipment,Web,63330,9462531.88
+Germany,2012,Mountaineering Equipment,Web,179605,7611768.05
+Germany,2012,Outdoor Protection,Web,64251,418874.36
+Germany,2012,Personal Accessories,Web,117466,5598584.51
+Germany,2013,Camping Equipment,E-mail,23566,1209502.66
+Germany,2013,Golf Equipment,E-mail,5345,937578.21
+Germany,2013,Outdoor Protection,E-mail,396,2219.15
+Germany,2013,Personal Accessories,E-mail,12654,431774.91
+Germany,2013,Camping Equipment,Sales visit,11885,825876.54
+Germany,2013,Mountaineering Equipment,Sales visit,22575,920682.14
+Germany,2013,Personal Accessories,Sales visit,5124,206435.72
+Germany,2013,Camping Equipment,Telephone,34518,1737891.05
+Germany,2013,Golf Equipment,Telephone,1059,125730.51
+Germany,2013,Mountaineering Equipment,Telephone,21447,1099642.88
+Germany,2013,Outdoor Protection,Telephone,1923,12029.96
+Germany,2013,Personal Accessories,Telephone,1457,166744.99
+Germany,2013,Camping Equipment,Web,255040,14604301.41
+Germany,2013,Golf Equipment,Web,53973,8040808.04
+Germany,2013,Mountaineering Equipment,Web,147559,5456460.95
+Germany,2013,Outdoor Protection,Web,35006,223113.42
+Germany,2013,Personal Accessories,Web,104746,5351505.77
+Italy,2010,Camping Equipment,E-mail,67801,3776267.96
+Italy,2010,Golf Equipment,E-mail,24921,3999842.49
+Italy,2010,Outdoor Protection,E-mail,66848,426154.1
+Italy,2010,Personal Accessories,E-mail,19476,986070.57
+Italy,2010,Camping Equipment,Fax,3595,318196.02
+Italy,2010,Outdoor Protection,Fax,7575,47071.4
+Italy,2010,Personal Accessories,Fax,104,12982.86
+Italy,2010,Camping Equipment,Sales visit,109543,6324824.46
+Italy,2010,Golf Equipment,Sales visit,5479,462767.36
+Italy,2010,Outdoor Protection,Sales visit,80063,533690.68
+Italy,2010,Personal Accessories,Sales visit,40681,1631425.68
+Italy,2010,Camping Equipment,Special,1247,224267.93
+Italy,2010,Outdoor Protection,Special,5842,35560.47
+Italy,2010,Personal Accessories,Special,180,25972.08
+Italy,2010,Camping Equipment,Telephone,2905,72006.03
+Italy,2010,Golf Equipment,Telephone,227,100637.08
+Italy,2010,Outdoor Protection,Telephone,3832,21545.47
+Italy,2010,Personal Accessories,Telephone,734,49798.98
+Italy,2010,Camping Equipment,Web,23782,1202607.3
+Italy,2010,Golf Equipment,Web,9067,1082772.81
+Italy,2010,Outdoor Protection,Web,36257,230503.31
+Italy,2010,Personal Accessories,Web,15702,662891.88
+Italy,2011,Camping Equipment,E-mail,76500,3434355.58
+Italy,2011,Golf Equipment,E-mail,14202,2046733.9
+Italy,2011,Outdoor Protection,E-mail,28616,164689.14
+Italy,2011,Personal Accessories,E-mail,20304,821678.02
+Italy,2011,Camping Equipment,Fax,5418,328775.12
+Italy,2011,Mountaineering Equipment,Fax,29737,1067083.66
+Italy,2011,Outdoor Protection,Fax,7681,46637.99
+Italy,2011,Personal Accessories,Fax,354,20105.1
+Italy,2011,Camping Equipment,Sales visit,29203,2135649.83
+Italy,2011,Golf Equipment,Sales visit,32,27397.44
+Italy,2011,Mountaineering Equipment,Sales visit,4671,200561.54
+Italy,2011,Outdoor Protection,Sales visit,23956,145891.47
+Italy,2011,Personal Accessories,Sales visit,16793,772400.06
+Italy,2011,Camping Equipment,Special,8777,34669.15
+Italy,2011,Golf Equipment,Special,86,90509.42
+Italy,2011,Mountaineering Equipment,Special,1130,82884.04
+Italy,2011,Personal Accessories,Special,526,81151.86
+Italy,2011,Camping Equipment,Web,164497,9276340.1
+Italy,2011,Golf Equipment,Web,46575,4883881.04
+Italy,2011,Mountaineering Equipment,Web,64999,2838349.54
+Italy,2011,Outdoor Protection,Web,96886,604009.91
+Italy,2011,Personal Accessories,Web,43978,2010234.24
+Italy,2012,Camping Equipment,E-mail,46884,2371135.96
+Italy,2012,Golf Equipment,E-mail,7876,2231005.25
+Italy,2012,Outdoor Protection,E-mail,6294,44046.83
+Italy,2012,Personal Accessories,E-mail,11028,598482.47
+Italy,2012,Camping Equipment,Fax,555,168934.17
+Italy,2012,Mountaineering Equipment,Fax,5715,341072.96
+Italy,2012,Personal Accessories,Fax,71,6310.34
+Italy,2012,Camping Equipment,Telephone,14513,699649.46
+Italy,2012,Mountaineering Equipment,Telephone,23978,1010724.16
+Italy,2012,Outdoor Protection,Telephone,3855,26649.92
+Italy,2012,Personal Accessories,Telephone,5107,423709.96
+Italy,2012,Camping Equipment,Web,316561,18660792.1
+Italy,2012,Golf Equipment,Web,63369,7930555.13
+Italy,2012,Mountaineering Equipment,Web,144321,5726699.69
+Italy,2012,Outdoor Protection,Web,57732,367020.07
+Italy,2012,Personal Accessories,Web,104135,5015365.06
+Italy,2013,Camping Equipment,E-mail,21951,1027034.58
+Italy,2013,Golf Equipment,E-mail,523,314371.7
+Italy,2013,Outdoor Protection,E-mail,262,773.04
+Italy,2013,Personal Accessories,E-mail,5876,416292.81
+Italy,2013,Camping Equipment,Sales visit,7326,375085.09
+Italy,2013,Golf Equipment,Sales visit,8080,1304136.7
+Italy,2013,Mountaineering Equipment,Sales visit,960,139829.36
+Italy,2013,Personal Accessories,Sales visit,153,13260.07
+Italy,2013,Camping Equipment,Telephone,11646,970191.47
+Italy,2013,Golf Equipment,Telephone,8711,333222.94
+Italy,2013,Mountaineering Equipment,Telephone,3504,218297.38
+Italy,2013,Outdoor Protection,Telephone,1593,8378.87
+Italy,2013,Personal Accessories,Telephone,2531,237186.24
+Italy,2013,Camping Equipment,Web,215641,12253828.98
+Italy,2013,Golf Equipment,Web,34599,5859967.82
+Italy,2013,Mountaineering Equipment,Web,153592,5800138.81
+Italy,2013,Outdoor Protection,Web,26919,179650.85
+Italy,2013,Personal Accessories,Web,91118,4337217.95
+Japan,2010,Camping Equipment,E-mail,137774,6819140.43
+Japan,2010,Golf Equipment,E-mail,44691,6629067.54
+Japan,2010,Outdoor Protection,E-mail,88931,599480.83
+Japan,2010,Personal Accessories,E-mail,21936,1071818.23
+Japan,2010,Camping Equipment,Fax,31035,1239089.76
+Japan,2010,Outdoor Protection,Fax,32288,227038.9
+Japan,2010,Personal Accessories,Fax,13760,586376.65
+Japan,2010,Camping Equipment,Mail,11068,769460.95
+Japan,2010,Golf Equipment,Mail,3936,633044.21
+Japan,2010,Outdoor Protection,Mail,12168,67691.36
+Japan,2010,Personal Accessories,Mail,9177,434705.3
+Japan,2010,Camping Equipment,Sales visit,1967,390708.27
+Japan,2010,Outdoor Protection,Sales visit,9633,51847.51
+Japan,2010,Personal Accessories,Sales visit,9769,182121.67
+Japan,2010,Camping Equipment,Special,4522,241222.1
+Japan,2010,Outdoor Protection,Special,7140,42021.05
+Japan,2010,Personal Accessories,Special,936,48477.16
+Japan,2010,Camping Equipment,Telephone,218392,12294334.67
+Japan,2010,Golf Equipment,Telephone,33445,4401571.47
+Japan,2010,Outdoor Protection,Telephone,218071,1411823.39
+Japan,2010,Personal Accessories,Telephone,88710,4313084.27
+Japan,2010,Camping Equipment,Web,76522,5662290.3
+Japan,2010,Golf Equipment,Web,10525,1626581.78
+Japan,2010,Outdoor Protection,Web,89336,555172.93
+Japan,2010,Personal Accessories,Web,41862,1737680.1
+Japan,2011,Camping Equipment,E-mail,104536,6403769.97
+Japan,2011,Golf Equipment,E-mail,16959,1918515.09
+Japan,2011,Outdoor Protection,E-mail,62834,384701.8
+Japan,2011,Personal Accessories,E-mail,18574,604289.2
+Japan,2011,Camping Equipment,Fax,14226,409767.7
+Japan,2011,Mountaineering Equipment,Fax,13646,331739.73
+Japan,2011,Personal Accessories,Fax,885,79980.26
+Japan,2011,Camping Equipment,Mail,10295,584197.1
+Japan,2011,Golf Equipment,Mail,2059,553197.08
+Japan,2011,Mountaineering Equipment,Mail,1103,85051.98
+Japan,2011,Outdoor Protection,Mail,27672,157514.06
+Japan,2011,Personal Accessories,Mail,5235,236889
+Japan,2011,Camping Equipment,Sales visit,1424,69818.29
+Japan,2011,Golf Equipment,Sales visit,159,143187.86
+Japan,2011,Personal Accessories,Sales visit,3012,68944.02
+Japan,2011,Camping Equipment,Special,116,16548.56
+Japan,2011,Golf Equipment,Special,330,91786.86
+Japan,2011,Outdoor Protection,Special,628,4308.08
+Japan,2011,Personal Accessories,Special,1573,137870.75
+Japan,2011,Camping Equipment,Telephone,31691,1191472.38
+Japan,2011,Golf Equipment,Telephone,1413,641284.83
+Japan,2011,Mountaineering Equipment,Telephone,122,18348.8
+Japan,2011,Outdoor Protection,Telephone,25421,156876.43
+Japan,2011,Personal Accessories,Telephone,17152,500964.74
+Japan,2011,Camping Equipment,Web,357323,20674658.9
+Japan,2011,Golf Equipment,Web,72677,8990699.04
+Japan,2011,Mountaineering Equipment,Web,183559,7772226.5
+Japan,2011,Outdoor Protection,Web,175641,1090468.59
+Japan,2011,Personal Accessories,Web,90838,4932433.41
+Japan,2012,Camping Equipment,E-mail,28971,1269298.75
+Japan,2012,Golf Equipment,E-mail,72,5263.2
+Japan,2012,Outdoor Protection,E-mail,15228,98346.34
+Japan,2012,Personal Accessories,E-mail,7565,264640.57
+Japan,2012,Camping Equipment,Mail,36993,1432402.53
+Japan,2012,Golf Equipment,Mail,2513,554187.22
+Japan,2012,Outdoor Protection,Mail,1598,11324
+Japan,2012,Personal Accessories,Mail,2133,180522.44
+Japan,2012,Camping Equipment,Sales visit,13907,863467.66
+Japan,2012,Golf Equipment,Sales visit,2763,435076.63
+Japan,2012,Outdoor Protection,Sales visit,5247,30866.45
+Japan,2012,Personal Accessories,Sales visit,8171,431588.1
+Japan,2012,Camping Equipment,Telephone,3852,411573.46
+Japan,2012,Golf Equipment,Telephone,10852,1592530.66
+Japan,2012,Mountaineering Equipment,Telephone,4723,116685.2
+Japan,2012,Outdoor Protection,Telephone,567,3137
+Japan,2012,Personal Accessories,Telephone,5650,518929.75
+Japan,2012,Camping Equipment,Web,539022,32241229.84
+Japan,2012,Golf Equipment,Web,85642,13567488.08
+Japan,2012,Mountaineering Equipment,Web,239030,10629588.26
+Japan,2012,Outdoor Protection,Web,84353,550806.97
+Japan,2012,Personal Accessories,Web,160233,7953250.72
+Japan,2013,Golf Equipment,E-mail,19797,2958676.59
+Japan,2013,Outdoor Protection,E-mail,2870,17628.16
+Japan,2013,Personal Accessories,E-mail,433,35340.72
+Japan,2013,Camping Equipment,Sales visit,58952,2935646.52
+Japan,2013,Golf Equipment,Sales visit,12648,1886242.5
+Japan,2013,Mountaineering Equipment,Sales visit,37792,2502153.31
+Japan,2013,Outdoor Protection,Sales visit,4246,25896.77
+Japan,2013,Personal Accessories,Sales visit,8987,548049.69
+Japan,2013,Camping Equipment,Telephone,12581,939016.47
+Japan,2013,Golf Equipment,Telephone,1484,185738.65
+Japan,2013,Outdoor Protection,Telephone,75,51
+Japan,2013,Personal Accessories,Telephone,16613,1290547.04
+Japan,2013,Camping Equipment,Web,335838,19712494.92
+Japan,2013,Golf Equipment,Web,47813,6838487.41
+Japan,2013,Mountaineering Equipment,Web,205254,7085511.21
+Japan,2013,Outdoor Protection,Web,38944,257773.13
+Japan,2013,Personal Accessories,Web,122039,5919128.22
+Korea,2010,Camping Equipment,E-mail,25565,1264667.51
+Korea,2010,Golf Equipment,E-mail,6875,630054.56
+Korea,2010,Outdoor Protection,E-mail,19919,147831.13
+Korea,2010,Personal Accessories,E-mail,9625,431338
+Korea,2010,Camping Equipment,Mail,17034,710559.61
+Korea,2010,Golf Equipment,Mail,17813,3267905.22
+Korea,2010,Outdoor Protection,Mail,9845,61770.17
+Korea,2010,Camping Equipment,Sales visit,162528,10373786.46
+Korea,2010,Golf Equipment,Sales visit,5087,895719.81
+Korea,2010,Outdoor Protection,Sales visit,191943,1191039.17
+Korea,2010,Personal Accessories,Sales visit,97298,3974671.3
+Korea,2010,Camping Equipment,Web,120573,5879241.37
+Korea,2010,Golf Equipment,Web,33683,4132840.38
+Korea,2010,Outdoor Protection,Web,99855,649463.51
+Korea,2010,Personal Accessories,Web,22507,1361798.55
+Korea,2011,Camping Equipment,Sales visit,47071,2725171.79
+Korea,2011,Mountaineering Equipment,Sales visit,76655,2973260.72
+Korea,2011,Outdoor Protection,Sales visit,35447,217325.96
+Korea,2011,Personal Accessories,Sales visit,12517,633582.99
+Korea,2011,Camping Equipment,Special,7517,273475.52
+Korea,2011,Golf Equipment,Special,1048,10700.08
+Korea,2011,Outdoor Protection,Special,1319,7711.7
+Korea,2011,Personal Accessories,Special,9450,278378.55
+Korea,2011,Camping Equipment,Telephone,22171,1548695.32
+Korea,2011,Golf Equipment,Telephone,16178,2767026.85
+Korea,2011,Outdoor Protection,Telephone,19715,104559.24
+Korea,2011,Personal Accessories,Telephone,12981,524666.97
+Korea,2011,Camping Equipment,Web,291031,16559327.44
+Korea,2011,Golf Equipment,Web,52764,6293461.75
+Korea,2011,Mountaineering Equipment,Web,68458,3162496.27
+Korea,2011,Outdoor Protection,Web,166781,1025227.38
+Korea,2011,Personal Accessories,Web,66325,3382179.6
+Korea,2012,Camping Equipment,Fax,17668,1295810.61
+Korea,2012,Mountaineering Equipment,Fax,40266,1698714.35
+Korea,2012,Outdoor Protection,Fax,4277,25771.8
+Korea,2012,Personal Accessories,Fax,4925,361063
+Korea,2012,Camping Equipment,Telephone,7930,473384.6
+Korea,2012,Golf Equipment,Telephone,258,75730.44
+Korea,2012,Outdoor Protection,Telephone,1394,11504
+Korea,2012,Personal Accessories,Telephone,3534,83212.25
+Korea,2012,Camping Equipment,Web,399646,22329211.72
+Korea,2012,Golf Equipment,Web,68567,10890915.33
+Korea,2012,Mountaineering Equipment,Web,123167,5489959.82
+Korea,2012,Outdoor Protection,Web,66315,432343.43
+Korea,2012,Personal Accessories,Web,118027,5826026.85
+Korea,2013,Camping Equipment,Sales visit,2075,329651.36
+Korea,2013,Golf Equipment,Sales visit,6468,974724.98
+Korea,2013,Outdoor Protection,Sales visit,562,2364
+Korea,2013,Personal Accessories,Sales visit,976,88680.2
+Korea,2013,Camping Equipment,Web,280703,16410621.05
+Korea,2013,Golf Equipment,Web,51810,7577858.59
+Korea,2013,Mountaineering Equipment,Web,174315,6731871.97
+Korea,2013,Outdoor Protection,Web,31935,209272.37
+Korea,2013,Personal Accessories,Web,106092,5536784.13
+Mexico,2010,Camping Equipment,Sales visit,131545,8101509.53
+Mexico,2010,Golf Equipment,Sales visit,12654,2157363.58
+Mexico,2010,Outdoor Protection,Sales visit,119009,754852.72
+Mexico,2010,Personal Accessories,Sales visit,53277,2390744.92
+Mexico,2010,Camping Equipment,Special,15929,866193.63
+Mexico,2010,Outdoor Protection,Special,25850,171816.7
+Mexico,2010,Personal Accessories,Special,13312,488504.4
+Mexico,2010,Camping Equipment,Telephone,23257,1188160.06
+Mexico,2010,Golf Equipment,Telephone,14212,1587958.44
+Mexico,2010,Outdoor Protection,Telephone,23105,164304.89
+Mexico,2010,Personal Accessories,Telephone,3658,236399.88
+Mexico,2010,Camping Equipment,Web,43180,1953639.06
+Mexico,2010,Golf Equipment,Web,14203,1897839.91
+Mexico,2010,Outdoor Protection,Web,25639,187338.43
+Mexico,2010,Personal Accessories,Web,3405,213081.75
+Mexico,2011,Camping Equipment,Mail,1533,310018.02
+Mexico,2011,Mountaineering Equipment,Mail,9744,304948.75
+Mexico,2011,Outdoor Protection,Mail,7056,41676.71
+Mexico,2011,Personal Accessories,Mail,330,63777.39
+Mexico,2011,Camping Equipment,Sales visit,187405,12565439.82
+Mexico,2011,Golf Equipment,Sales visit,16521,2262969.79
+Mexico,2011,Mountaineering Equipment,Sales visit,28533,1212716.11
+Mexico,2011,Outdoor Protection,Sales visit,89899,541183.5
+Mexico,2011,Personal Accessories,Sales visit,59277,2675376.4
+Mexico,2011,Camping Equipment,Special,17560,626406.67
+Mexico,2011,Mountaineering Equipment,Special,21914,865920.99
+Mexico,2011,Outdoor Protection,Special,9529,61764.61
+Mexico,2011,Personal Accessories,Special,2362,171416.27
+Mexico,2011,Camping Equipment,Web,95204,4824659.89
+Mexico,2011,Golf Equipment,Web,34751,4947203.18
+Mexico,2011,Mountaineering Equipment,Web,65536,2482528.48
+Mexico,2011,Outdoor Protection,Web,67438,410892.48
+Mexico,2011,Personal Accessories,Web,24030,1221020.96
+Mexico,2012,Camping Equipment,Sales visit,56497,3001326.63
+Mexico,2012,Golf Equipment,Sales visit,6352,899215.4
+Mexico,2012,Mountaineering Equipment,Sales visit,42208,1873569.55
+Mexico,2012,Outdoor Protection,Sales visit,17688,100751.24
+Mexico,2012,Personal Accessories,Sales visit,28283,1171649.65
+Mexico,2012,Camping Equipment,Web,351669,21237845.32
+Mexico,2012,Golf Equipment,Web,71220,10400565.58
+Mexico,2012,Mountaineering Equipment,Web,146186,6613883.71
+Mexico,2012,Outdoor Protection,Web,61446,411258.39
+Mexico,2012,Personal Accessories,Web,98753,5060774.72
+Mexico,2013,Camping Equipment,Web,253322,14460414.42
+Mexico,2013,Golf Equipment,Web,54211,7136064.21
+Mexico,2013,Mountaineering Equipment,Web,137698,5849954.15
+Mexico,2013,Outdoor Protection,Web,28364,185714.9
+Mexico,2013,Personal Accessories,Web,91664,4708969.11
+Netherlands,2010,Camping Equipment,E-mail,10672,895627.45
+Netherlands,2010,Golf Equipment,E-mail,3311,265649.01
+Netherlands,2010,Outdoor Protection,E-mail,36471,216778.82
+Netherlands,2010,Personal Accessories,E-mail,23700,1119400.69
+Netherlands,2010,Camping Equipment,Fax,4888,390824.84
+Netherlands,2010,Outdoor Protection,Fax,12771,86118.24
+Netherlands,2010,Personal Accessories,Fax,240,21022.84
+Netherlands,2010,Camping Equipment,Mail,38898,2056922.88
+Netherlands,2010,Golf Equipment,Mail,10426,1191456.02
+Netherlands,2010,Outdoor Protection,Mail,41213,300456.18
+Netherlands,2010,Personal Accessories,Mail,8929,456820.68
+Netherlands,2010,Camping Equipment,Telephone,68596,4100413.97
+Netherlands,2010,Golf Equipment,Telephone,27046,4051557.48
+Netherlands,2010,Outdoor Protection,Telephone,45965,277773
+Netherlands,2010,Personal Accessories,Telephone,24171,934683.64
+Netherlands,2010,Camping Equipment,Web,108730,6606471.35
+Netherlands,2010,Golf Equipment,Web,4349,448082.04
+Netherlands,2010,Outdoor Protection,Web,80144,529528.41
+Netherlands,2010,Personal Accessories,Web,31920,1294356.65
+Netherlands,2011,Camping Equipment,Fax,18265,1103714.62
+Netherlands,2011,Mountaineering Equipment,Fax,17581,540916.81
+Netherlands,2011,Outdoor Protection,Fax,7442,45931.01
+Netherlands,2011,Personal Accessories,Fax,3324,296960.47
+Netherlands,2011,Camping Equipment,Mail,22553,1283152.35
+Netherlands,2011,Golf Equipment,Mail,4153,502635.48
+Netherlands,2011,Outdoor Protection,Mail,12723,85573.38
+Netherlands,2011,Personal Accessories,Mail,11742,524155.14
+Netherlands,2011,Camping Equipment,Sales visit,9406,623947.7
+Netherlands,2011,Golf Equipment,Sales visit,85,74189.7
+Netherlands,2011,Mountaineering Equipment,Sales visit,6346,228031.55
+Netherlands,2011,Outdoor Protection,Sales visit,2433,12536.03
+Netherlands,2011,Personal Accessories,Sales visit,1513,63240.46
+Netherlands,2011,Camping Equipment,Telephone,69390,3249978.85
+Netherlands,2011,Golf Equipment,Telephone,31267,4100356.02
+Netherlands,2011,Mountaineering Equipment,Telephone,38959,1274394.96
+Netherlands,2011,Outdoor Protection,Telephone,43037,252527.72
+Netherlands,2011,Personal Accessories,Telephone,21952,999319.69
+Netherlands,2011,Camping Equipment,Web,152397,10060736.56
+Netherlands,2011,Golf Equipment,Web,17509,2225974.86
+Netherlands,2011,Mountaineering Equipment,Web,43063,2097028.27
+Netherlands,2011,Outdoor Protection,Web,88024,540487.05
+Netherlands,2011,Personal Accessories,Web,38552,1773851.71
+Netherlands,2012,Personal Accessories,Mail,7764,616014.57
+Netherlands,2012,Camping Equipment,Sales visit,60386,3930254.02
+Netherlands,2012,Golf Equipment,Sales visit,7760,1349808.56
+Netherlands,2012,Mountaineering Equipment,Sales visit,29196,1224153.64
+Netherlands,2012,Outdoor Protection,Sales visit,3286,22616.82
+Netherlands,2012,Personal Accessories,Sales visit,13212,738059.4
+Netherlands,2012,Golf Equipment,Telephone,63,54512.64
+Netherlands,2012,Mountaineering Equipment,Telephone,693,58151.28
+Netherlands,2012,Outdoor Protection,Telephone,172,1032
+Netherlands,2012,Camping Equipment,Web,267280,15724514.08
+Netherlands,2012,Golf Equipment,Web,61343,8681996.46
+Netherlands,2012,Mountaineering Equipment,Web,123007,5194338.26
+Netherlands,2012,Outdoor Protection,Web,62714,406317.36
+Netherlands,2012,Personal Accessories,Web,98521,4549067.26
+Netherlands,2013,Camping Equipment,Mail,52,3996.72
+Netherlands,2013,Personal Accessories,Mail,5014,400981.81
+Netherlands,2013,Camping Equipment,Sales visit,9235,710784.12
+Netherlands,2013,Golf Equipment,Sales visit,360,115312.32
+Netherlands,2013,Personal Accessories,Sales visit,68,3323.84
+Netherlands,2013,Camping Equipment,Web,259573,14915478.67
+Netherlands,2013,Golf Equipment,Web,46970,7225764.41
+Netherlands,2013,Mountaineering Equipment,Web,138575,5807430.16
+Netherlands,2013,Outdoor Protection,Web,27740,179350.52
+Netherlands,2013,Personal Accessories,Web,85766,4096661.43
+Singapore,2010,Golf Equipment,E-mail,1159,300990.52
+Singapore,2010,Camping Equipment,Fax,31407,1211055.01
+Singapore,2010,Outdoor Protection,Fax,22531,136098.56
+Singapore,2010,Personal Accessories,Fax,25020,877964.74
+Singapore,2010,Camping Equipment,Mail,1872,59857.68
+Singapore,2010,Golf Equipment,Mail,6290,1288598.3
+Singapore,2010,Personal Accessories,Mail,248,27129.51
+Singapore,2010,Camping Equipment,Sales visit,141167,8003835.12
+Singapore,2010,Golf Equipment,Sales visit,12551,1514293.49
+Singapore,2010,Outdoor Protection,Sales visit,109611,721082.14
+Singapore,2010,Personal Accessories,Sales visit,46419,1994209.14
+Singapore,2010,Camping Equipment,Special,17464,1334173.62
+Singapore,2010,Outdoor Protection,Special,31942,206571.76
+Singapore,2010,Personal Accessories,Special,18545,767068.65
+Singapore,2010,Camping Equipment,Telephone,72539,3539491.51
+Singapore,2010,Golf Equipment,Telephone,14687,1806751.52
+Singapore,2010,Outdoor Protection,Telephone,51003,376922.39
+Singapore,2010,Personal Accessories,Telephone,13184,569477.59
+Singapore,2010,Camping Equipment,Web,42118,2377064.38
+Singapore,2010,Golf Equipment,Web,19887,2827324.34
+Singapore,2010,Outdoor Protection,Web,51345,304694.04
+Singapore,2010,Personal Accessories,Web,19067,878379.43
+Singapore,2011,Camping Equipment,Fax,7518,1031558.34
+Singapore,2011,Mountaineering Equipment,Fax,32752,1261685.86
+Singapore,2011,Outdoor Protection,Fax,18593,123779.33
+Singapore,2011,Personal Accessories,Fax,2735,234104.71
+Singapore,2011,Camping Equipment,Special,30085,1528934.91
+Singapore,2011,Mountaineering Equipment,Special,28115,1011326.29
+Singapore,2011,Outdoor Protection,Special,3217,18209.08
+Singapore,2011,Personal Accessories,Special,5057,213393.75
+Singapore,2011,Camping Equipment,Telephone,56498,1983937.18
+Singapore,2011,Golf Equipment,Telephone,6290,443819.67
+Singapore,2011,Outdoor Protection,Telephone,18407,116321.59
+Singapore,2011,Personal Accessories,Telephone,3865,291569.49
+Singapore,2011,Camping Equipment,Web,253635,15271504.64
+Singapore,2011,Golf Equipment,Web,51799,6962623.39
+Singapore,2011,Mountaineering Equipment,Web,62968,2868148.44
+Singapore,2011,Outdoor Protection,Web,119159,719153.83
+Singapore,2011,Personal Accessories,Web,75905,3439144.78
+Singapore,2012,Camping Equipment,Fax,365,36229.9
+Singapore,2012,Mountaineering Equipment,Fax,5445,109288.46
+Singapore,2012,Personal Accessories,Fax,6629,387580.1
+Singapore,2012,Golf Equipment,Mail,4976,756677.26
+Singapore,2012,Personal Accessories,Mail,82,5011.36
+Singapore,2012,Camping Equipment,Sales visit,13829,341120.57
+Singapore,2012,Golf Equipment,Sales visit,1555,117895.89
+Singapore,2012,Outdoor Protection,Sales visit,80,2744
+Singapore,2012,Personal Accessories,Sales visit,1762,126088.21
+Singapore,2012,Camping Equipment,Special,3270,250486.32
+Singapore,2012,Mountaineering Equipment,Special,6167,517010.05
+Singapore,2012,Personal Accessories,Special,2084,132360.94
+Singapore,2012,Golf Equipment,Telephone,1728,588957.56
+Singapore,2012,Personal Accessories,Telephone,105,7920.36
+Singapore,2012,Camping Equipment,Web,344818,20954956.63
+Singapore,2012,Golf Equipment,Web,55955,8305977.3
+Singapore,2012,Mountaineering Equipment,Web,134076,5752189.41
+Singapore,2012,Outdoor Protection,Web,70582,447367.19
+Singapore,2012,Personal Accessories,Web,101660,5157492.08
+Singapore,2013,Camping Equipment,Fax,212,92747.88
+Singapore,2013,Mountaineering Equipment,Fax,17290,1332485.71
+Singapore,2013,Personal Accessories,Fax,119,10340.78
+Singapore,2013,Camping Equipment,Sales visit,10912,493934.99
+Singapore,2013,Outdoor Protection,Sales visit,2593,14718.73
+Singapore,2013,Personal Accessories,Sales visit,6065,325689.01
+Singapore,2013,Camping Equipment,Special,16341,1199696.41
+Singapore,2013,Mountaineering Equipment,Special,12676,318175.5
+Singapore,2013,Personal Accessories,Special,1713,152249.24
+Singapore,2013,Camping Equipment,Web,231404,13239923.07
+Singapore,2013,Golf Equipment,Web,49020,7135038.72
+Singapore,2013,Mountaineering Equipment,Web,121130,4559968.62
+Singapore,2013,Outdoor Protection,Web,27194,178566.25
+Singapore,2013,Personal Accessories,Web,94369,4617008.94
+Spain,2010,Camping Equipment,E-mail,25347,1360244.2
+Spain,2010,Golf Equipment,E-mail,3668,500848.91
+Spain,2010,Outdoor Protection,E-mail,7475,50405.95
+Spain,2010,Personal Accessories,E-mail,1100,61241.25
+Spain,2010,Camping Equipment,Fax,6509,224265.88
+Spain,2010,Golf Equipment,Fax,8428,634015.92
+Spain,2010,Outdoor Protection,Fax,22813,153732.4
+Spain,2010,Personal Accessories,Fax,6558,336356.18
+Spain,2010,Camping Equipment,Mail,13493,738413.46
+Spain,2010,Golf Equipment,Mail,6000,1199789.36
+Spain,2010,Outdoor Protection,Mail,19687,112809.76
+Spain,2010,Personal Accessories,Mail,1773,127825.69
+Spain,2010,Camping Equipment,Sales visit,5596,261173.22
+Spain,2010,Outdoor Protection,Sales visit,1813,14183.03
+Spain,2010,Personal Accessories,Sales visit,3724,69143.66
+Spain,2010,Camping Equipment,Telephone,2505,94469.79
+Spain,2010,Golf Equipment,Telephone,448,80139.49
+Spain,2010,Outdoor Protection,Telephone,5932,37660.35
+Spain,2010,Personal Accessories,Telephone,2667,180358.25
+Spain,2010,Camping Equipment,Web,139415,8123342.93
+Spain,2010,Golf Equipment,Web,17948,2650011.5
+Spain,2010,Outdoor Protection,Web,137485,892707.94
+Spain,2010,Personal Accessories,Web,53518,2327025.06
+Spain,2011,Camping Equipment,Fax,7034,241701.3
+Spain,2011,Outdoor Protection,Fax,4717,25750.74
+Spain,2011,Personal Accessories,Fax,2203,83176.22
+Spain,2011,Camping Equipment,Mail,5572,301881.12
+Spain,2011,Golf Equipment,Mail,5581,502805.04
+Spain,2011,Outdoor Protection,Mail,3083,20365.27
+Spain,2011,Personal Accessories,Mail,761,47311
+Spain,2011,Camping Equipment,Telephone,29572,1247966.08
+Spain,2011,Golf Equipment,Telephone,10285,748437.93
+Spain,2011,Outdoor Protection,Telephone,10122,68983.88
+Spain,2011,Personal Accessories,Telephone,7784,294262.33
+Spain,2011,Camping Equipment,Web,207742,11583293.71
+Spain,2011,Golf Equipment,Web,39117,5212276.99
+Spain,2011,Mountaineering Equipment,Web,95431,3882314.53
+Spain,2011,Outdoor Protection,Web,120976,738256.19
+Spain,2011,Personal Accessories,Web,57839,2823396.13
+Spain,2012,Camping Equipment,Fax,19399,886176.3
+Spain,2012,Golf Equipment,Fax,5113,622142.53
+Spain,2012,Outdoor Protection,Fax,7601,45374.73
+Spain,2012,Personal Accessories,Fax,5528,413140.46
+Spain,2012,Camping Equipment,Sales visit,8782,329387.43
+Spain,2012,Mountaineering Equipment,Sales visit,2490,53200.42
+Spain,2012,Camping Equipment,Telephone,13424,1280263.84
+Spain,2012,Golf Equipment,Telephone,2575,569447.54
+Spain,2012,Mountaineering Equipment,Telephone,26699,1384080.44
+Spain,2012,Outdoor Protection,Telephone,3863,25717.05
+Spain,2012,Personal Accessories,Telephone,3932,126788.87
+Spain,2012,Camping Equipment,Web,303013,17626785.92
+Spain,2012,Golf Equipment,Web,57562,7759385.09
+Spain,2012,Mountaineering Equipment,Web,130896,5130496.69
+Spain,2012,Outdoor Protection,Web,47877,311575.06
+Spain,2012,Personal Accessories,Web,98936,4903609.77
+Spain,2013,Camping Equipment,Fax,18589,1099887.85
+Spain,2013,Golf Equipment,Fax,9059,1686985.06
+Spain,2013,Outdoor Protection,Fax,2168,16246.52
+Spain,2013,Personal Accessories,Fax,11169,453250.42
+Spain,2013,Camping Equipment,Sales visit,36834,1647909.81
+Spain,2013,Mountaineering Equipment,Sales visit,27649,1302196.76
+Spain,2013,Camping Equipment,Web,186914,10954508.62
+Spain,2013,Golf Equipment,Web,41138,5457137.03
+Spain,2013,Mountaineering Equipment,Web,120909,4569880.25
+Spain,2013,Outdoor Protection,Web,23822,154770.5
+Spain,2013,Personal Accessories,Web,81657,4243698.44
+Sweden,2010,Camping Equipment,E-mail,30551,1947310.11
+Sweden,2010,Golf Equipment,E-mail,19114,3014645.71
+Sweden,2010,Outdoor Protection,E-mail,36231,217084.57
+Sweden,2010,Personal Accessories,E-mail,9594,502474.56
+Sweden,2010,Camping Equipment,Fax,541,28229.38
+Sweden,2010,Outdoor Protection,Fax,1006,4828.8
+Sweden,2010,Personal Accessories,Fax,3185,123607.35
+Sweden,2010,Camping Equipment,Mail,155,41211.4
+Sweden,2010,Personal Accessories,Mail,1425,106504.2
+Sweden,2010,Camping Equipment,Sales visit,12220,561358.24
+Sweden,2010,Golf Equipment,Sales visit,888,73864.98
+Sweden,2010,Outdoor Protection,Sales visit,6962,39565.48
+Sweden,2010,Personal Accessories,Sales visit,2801,116895.71
+Sweden,2010,Camping Equipment,Telephone,58996,2969871.31
+Sweden,2010,Golf Equipment,Telephone,10069,917976.88
+Sweden,2010,Outdoor Protection,Telephone,57296,408643.34
+Sweden,2010,Personal Accessories,Telephone,16865,820732.81
+Sweden,2010,Camping Equipment,Web,68102,4465051.52
+Sweden,2010,Golf Equipment,Web,1761,230631.15
+Sweden,2010,Outdoor Protection,Web,42229,280154.43
+Sweden,2010,Personal Accessories,Web,23996,909442.88
+Sweden,2011,Camping Equipment,E-mail,30317,1092859.49
+Sweden,2011,Golf Equipment,E-mail,1747,247681.17
+Sweden,2011,Mountaineering Equipment,E-mail,25096,968036.3
+Sweden,2011,Outdoor Protection,E-mail,20040,127568.21
+Sweden,2011,Personal Accessories,E-mail,4185,283529.06
+Sweden,2011,Camping Equipment,Sales visit,22707,1408674.49
+Sweden,2011,Mountaineering Equipment,Sales visit,19054,785856.73
+Sweden,2011,Outdoor Protection,Sales visit,18166,108656.34
+Sweden,2011,Personal Accessories,Sales visit,7569,219139.82
+Sweden,2011,Camping Equipment,Telephone,3411,128808.06
+Sweden,2011,Personal Accessories,Telephone,720,74520.18
+Sweden,2011,Camping Equipment,Web,136329,8890657.99
+Sweden,2011,Golf Equipment,Web,35593,4839548.06
+Sweden,2011,Mountaineering Equipment,Web,35790,1298585.37
+Sweden,2011,Outdoor Protection,Web,75290,459922.7
+Sweden,2011,Personal Accessories,Web,36969,1836168.14
+Sweden,2012,Camping Equipment,E-mail,3915,484455.47
+Sweden,2012,Mountaineering Equipment,E-mail,2814,53903.98
+Sweden,2012,Outdoor Protection,E-mail,1213,6276
+Sweden,2012,Personal Accessories,E-mail,2060,172739.7
+Sweden,2012,Camping Equipment,Fax,685,144118.61
+Sweden,2012,Outdoor Protection,Fax,2018,11546
+Sweden,2012,Personal Accessories,Fax,827,19853.17
+Sweden,2012,Camping Equipment,Sales visit,23049,1517501.51
+Sweden,2012,Golf Equipment,Sales visit,7743,758861.76
+Sweden,2012,Mountaineering Equipment,Sales visit,7066,611759.44
+Sweden,2012,Outdoor Protection,Sales visit,4544,30031.66
+Sweden,2012,Personal Accessories,Sales visit,1302,132437.23
+Sweden,2012,Camping Equipment,Telephone,25917,1549629.06
+Sweden,2012,Mountaineering Equipment,Telephone,58313,2133798.67
+Sweden,2012,Outdoor Protection,Telephone,8848,54636.32
+Sweden,2012,Personal Accessories,Telephone,12965,721042.52
+Sweden,2012,Camping Equipment,Web,168582,9399085.16
+Sweden,2012,Golf Equipment,Web,37035,5874299.8
+Sweden,2012,Mountaineering Equipment,Web,43690,1754696.49
+Sweden,2012,Outdoor Protection,Web,33153,217352.82
+Sweden,2012,Personal Accessories,Web,68226,2981665.44
+Sweden,2013,Camping Equipment,E-mail,2648,158714.21
+Sweden,2013,Mountaineering Equipment,E-mail,1373,38028.06
+Sweden,2013,Outdoor Protection,E-mail,106,0
+Sweden,2013,Personal Accessories,E-mail,1831,247037.81
+Sweden,2013,Camping Equipment,Sales visit,14302,891742.37
+Sweden,2013,Golf Equipment,Sales visit,2921,629184.53
+Sweden,2013,Mountaineering Equipment,Sales visit,2557,126577.05
+Sweden,2013,Outdoor Protection,Sales visit,750,3236.6
+Sweden,2013,Personal Accessories,Sales visit,553,52953.52
+Sweden,2013,Camping Equipment,Telephone,18306,1116452.27
+Sweden,2013,Golf Equipment,Telephone,255,89713.41
+Sweden,2013,Mountaineering Equipment,Telephone,43929,1780434.56
+Sweden,2013,Outdoor Protection,Telephone,781,5042.34
+Sweden,2013,Personal Accessories,Telephone,10518,428777.43
+Sweden,2013,Camping Equipment,Web,145666,8034432.07
+Sweden,2013,Golf Equipment,Web,31398,4663052.83
+Sweden,2013,Mountaineering Equipment,Web,54265,2134000.89
+Sweden,2013,Outdoor Protection,Web,17618,116691.89
+Sweden,2013,Personal Accessories,Web,53126,2573833.88
+Switzerland,2010,Personal Accessories,E-mail,241929,14167711.85
+Switzerland,2010,Personal Accessories,Fax,136822,7271436.25
+Switzerland,2010,Personal Accessories,Special,19978,1020016.6
+Switzerland,2010,Personal Accessories,Telephone,487587,26186180.4
+Switzerland,2010,Personal Accessories,Web,4563947,246883688.8
+Switzerland,2011,Personal Accessories,E-mail,114001,6752605.15
+Switzerland,2011,Camping Equipment,Fax,633,12870.04
+Switzerland,2011,Personal Accessories,Fax,38419,2005007.65
+Switzerland,2011,Camping Equipment,Sales visit,39599,1852450.6
+Switzerland,2011,Golf Equipment,Sales visit,3923,688467.9
+Switzerland,2011,Outdoor Protection,Sales visit,13771,77794.89
+Switzerland,2011,Personal Accessories,Sales visit,11811,470309.81
+Switzerland,2011,Camping Equipment,Special,5982,365469.34
+Switzerland,2011,Golf Equipment,Special,11700,1066636.89
+Switzerland,2011,Mountaineering Equipment,Special,4097,162013.72
+Switzerland,2011,Outdoor Protection,Special,6440,41587.57
+Switzerland,2011,Personal Accessories,Special,3695,217319.38
+Switzerland,2011,Camping Equipment,Telephone,2164,101071.04
+Switzerland,2011,Outdoor Protection,Telephone,960,5435.04
+Switzerland,2011,Personal Accessories,Telephone,135051,7468122.01
+Switzerland,2011,Camping Equipment,Web,85771,5600474.5
+Switzerland,2011,Golf Equipment,Web,10370,1550026.4
+Switzerland,2011,Mountaineering Equipment,Web,44091,1828601.8
+Switzerland,2011,Outdoor Protection,Web,68270,416465.53
+Switzerland,2011,Personal Accessories,Web,6356392,350107018.2
+Switzerland,2012,Golf Equipment,E-mail,1000,308700.3
+Switzerland,2012,Personal Accessories,E-mail,49172,2807701.6
+Switzerland,2012,Camping Equipment,Sales visit,70633,3562854.58
+Switzerland,2012,Golf Equipment,Sales visit,12932,2049139.96
+Switzerland,2012,Outdoor Protection,Sales visit,14250,97113.82
+Switzerland,2012,Personal Accessories,Sales visit,21056,820400.02
+Switzerland,2012,Personal Accessories,Telephone,14648,818665.03
+Switzerland,2012,Camping Equipment,Web,131145,8614065.67
+Switzerland,2012,Golf Equipment,Web,23878,3099921.99
+Switzerland,2012,Mountaineering Equipment,Web,95856,4069889.81
+Switzerland,2012,Outdoor Protection,Web,25146,160041.26
+Switzerland,2012,Personal Accessories,Web,7917780,455706456.8
+Switzerland,2013,Personal Accessories,E-mail,34976,2023486.7
+Switzerland,2013,Golf Equipment,Fax,2796,468442.33
+Switzerland,2013,Outdoor Protection,Fax,60,30
+Switzerland,2013,Personal Accessories,Fax,10,556.2
+Switzerland,2013,Camping Equipment,Sales visit,12966,697629.09
+Switzerland,2013,Golf Equipment,Sales visit,3170,530423.11
+Switzerland,2013,Outdoor Protection,Sales visit,662,3458.27
+Switzerland,2013,Personal Accessories,Sales visit,9092,177714.05
+Switzerland,2013,Personal Accessories,Telephone,4902,274423.65
+Switzerland,2013,Camping Equipment,Web,158544,8891319.52
+Switzerland,2013,Golf Equipment,Web,24059,3706662.78
+Switzerland,2013,Mountaineering Equipment,Web,99427,3882566.13
+Switzerland,2013,Outdoor Protection,Web,19273,123695.31
+Switzerland,2013,Personal Accessories,Web,5809103,328697669.5
+United Kingdom,2010,Camping Equipment,Fax,1541,8478.18
+United Kingdom,2010,Outdoor Protection,Fax,8330,47820.64
+United Kingdom,2010,Personal Accessories,Fax,399,32612
+United Kingdom,2010,Camping Equipment,Sales visit,3391,80298.02
+United Kingdom,2010,Outdoor Protection,Sales visit,3365,21940.21
+United Kingdom,2010,Personal Accessories,Sales visit,2593,39622.17
+United Kingdom,2010,Camping Equipment,Telephone,225966,12108426.75
+United Kingdom,2010,Golf Equipment,Telephone,40285,6127472.61
+United Kingdom,2010,Outdoor Protection,Telephone,173925,1143996.44
+United Kingdom,2010,Personal Accessories,Telephone,39659,2240477.02
+United Kingdom,2010,Camping Equipment,Web,164949,9703166.64
+United Kingdom,2010,Golf Equipment,Web,31874,4101312.72
+United Kingdom,2010,Outdoor Protection,Web,215712,1326038.22
+United Kingdom,2010,Personal Accessories,Web,100623,4301983.32
+United Kingdom,2011,Camping Equipment,E-mail,3074,316244.94
+United Kingdom,2011,Mountaineering Equipment,E-mail,8136,311170.82
+United Kingdom,2011,Outdoor Protection,E-mail,4365,24192.46
+United Kingdom,2011,Personal Accessories,E-mail,551,46011.13
+United Kingdom,2011,Camping Equipment,Sales visit,8114,728729.99
+United Kingdom,2011,Golf Equipment,Sales visit,8135,847388.32
+United Kingdom,2011,Mountaineering Equipment,Sales visit,9370,398876.59
+United Kingdom,2011,Outdoor Protection,Sales visit,6634,43908.64
+United Kingdom,2011,Personal Accessories,Sales visit,3880,135491.36
+United Kingdom,2011,Camping Equipment,Special,1847,172380.14
+United Kingdom,2011,Mountaineering Equipment,Special,8251,238729.62
+United Kingdom,2011,Outdoor Protection,Special,10365,59933.58
+United Kingdom,2011,Personal Accessories,Special,313,50339.02
+United Kingdom,2011,Camping Equipment,Telephone,37220,1797628.5
+United Kingdom,2011,Golf Equipment,Telephone,18231,2113059.91
+United Kingdom,2011,Mountaineering Equipment,Telephone,7083,383188.5
+United Kingdom,2011,Outdoor Protection,Telephone,25014,158310.48
+United Kingdom,2011,Personal Accessories,Telephone,11063,448991.04
+United Kingdom,2011,Camping Equipment,Web,360907,21445960.14
+United Kingdom,2011,Golf Equipment,Web,50454,7078602
+United Kingdom,2011,Mountaineering Equipment,Web,117519,4826197.12
+United Kingdom,2011,Outdoor Protection,Web,232656,1383886.69
+United Kingdom,2011,Personal Accessories,Web,97605,4505942.58
+United Kingdom,2012,Camping Equipment,Mail,1107,173482.03
+United Kingdom,2012,Mountaineering Equipment,Mail,3597,210724.74
+United Kingdom,2012,Personal Accessories,Mail,386,74110.1
+United Kingdom,2012,Camping Equipment,Sales visit,32553,1767904.4
+United Kingdom,2012,Golf Equipment,Sales visit,2301,270232.38
+United Kingdom,2012,Mountaineering Equipment,Sales visit,33577,1586979.42
+United Kingdom,2012,Outdoor Protection,Sales visit,7746,49462
+United Kingdom,2012,Personal Accessories,Sales visit,11136,669782.15
+United Kingdom,2012,Camping Equipment,Web,422637,25475110.69
+United Kingdom,2012,Golf Equipment,Web,81802,12565112.62
+United Kingdom,2012,Mountaineering Equipment,Web,170646,6922008.7
+United Kingdom,2012,Outdoor Protection,Web,86448,558560.09
+United Kingdom,2012,Personal Accessories,Web,137715,6785652.92
+United Kingdom,2013,Camping Equipment,E-mail,9348,567096.4
+United Kingdom,2013,Mountaineering Equipment,E-mail,8364,524666.17
+United Kingdom,2013,Personal Accessories,E-mail,925,166449.85
+United Kingdom,2013,Golf Equipment,Fax,1930,268194.78
+United Kingdom,2013,Camping Equipment,Sales visit,22360,1447557.53
+United Kingdom,2013,Golf Equipment,Sales visit,987,629000.72
+United Kingdom,2013,Mountaineering Equipment,Sales visit,32168,1260136.42
+United Kingdom,2013,Outdoor Protection,Sales visit,1052,6476
+United Kingdom,2013,Personal Accessories,Sales visit,13035,504066.77
+United Kingdom,2013,Camping Equipment,Telephone,5806,285910.14
+United Kingdom,2013,Mountaineering Equipment,Telephone,6487,240971.02
+United Kingdom,2013,Personal Accessories,Telephone,764,59209.23
+United Kingdom,2013,Camping Equipment,Web,313756,18282183.64
+United Kingdom,2013,Golf Equipment,Web,59392,8955187.37
+United Kingdom,2013,Mountaineering Equipment,Web,151227,6002087.71
+United Kingdom,2013,Outdoor Protection,Web,38533,245706.85
+United Kingdom,2013,Personal Accessories,Web,115554,5836913.28
+United States,2010,Camping Equipment,E-mail,16840,982067.59
+United States,2010,Golf Equipment,E-mail,9203,1594308.34
+United States,2010,Outdoor Protection,E-mail,20166,141692.29
+United States,2010,Personal Accessories,E-mail,2175,144034.76
+United States,2010,Camping Equipment,Fax,20437,992366.01
+United States,2010,Outdoor Protection,Fax,24255,160371.3
+United States,2010,Personal Accessories,Fax,9586,450335.58
+United States,2010,Camping Equipment,Mail,37307,2409495.58
+United States,2010,Golf Equipment,Mail,1456,595513.4
+United States,2010,Outdoor Protection,Mail,83893,516291.09
+United States,2010,Personal Accessories,Mail,12890,1026965.73
+United States,2010,Camping Equipment,Sales visit,177288,10974580.6
+United States,2010,Golf Equipment,Sales visit,21147,3027696.51
+United States,2010,Outdoor Protection,Sales visit,180826,1089809.73
+United States,2010,Personal Accessories,Sales visit,85048,4101055.71
+United States,2010,Camping Equipment,Special,241,64077.08
+United States,2010,Outdoor Protection,Special,5651,36732.26
+United States,2010,Personal Accessories,Special,6059,119019.09
+United States,2010,Camping Equipment,Telephone,499418,26919547.89
+United States,2010,Golf Equipment,Telephone,88299,9950001.66
+United States,2010,Outdoor Protection,Telephone,373258,2533570.78
+United States,2010,Personal Accessories,Telephone,135480,5566371.2
+United States,2010,Camping Equipment,Web,331203,17801363.33
+United States,2010,Golf Equipment,Web,78373,12650821.6
+United States,2010,Outdoor Protection,Web,329398,2061958.01
+United States,2010,Personal Accessories,Web,103199,4924927.2
+United States,2011,Camping Equipment,Fax,14693,1158868.41
+United States,2011,Mountaineering Equipment,Fax,54679,2222075.6
+United States,2011,Outdoor Protection,Fax,15211,90747.16
+United States,2011,Personal Accessories,Fax,11523,464626.42
+United States,2011,Camping Equipment,Mail,46842,2545572.98
+United States,2011,Golf Equipment,Mail,5444,645235.36
+United States,2011,Mountaineering Equipment,Mail,13885,588855.48
+United States,2011,Outdoor Protection,Mail,18281,127895.82
+United States,2011,Personal Accessories,Mail,4694,439164.94
+United States,2011,Camping Equipment,Sales visit,71076,3634711.51
+United States,2011,Golf Equipment,Sales visit,4368,1079115.86
+United States,2011,Mountaineering Equipment,Sales visit,80288,2845555.4
+United States,2011,Outdoor Protection,Sales visit,50189,311021.15
+United States,2011,Personal Accessories,Sales visit,23439,1162829.81
+United States,2011,Camping Equipment,Special,14934,1547586
+United States,2011,Mountaineering Equipment,Special,11506,477947.9
+United States,2011,Outdoor Protection,Special,8575,56809.36
+United States,2011,Personal Accessories,Special,6006,219209.18
+United States,2011,Camping Equipment,Telephone,309525,19790015.21
+United States,2011,Golf Equipment,Telephone,49161,4950737.2
+United States,2011,Mountaineering Equipment,Telephone,75573,2912575.62
+United States,2011,Outdoor Protection,Telephone,163145,1008697.54
+United States,2011,Personal Accessories,Telephone,84648,3867805.34
+United States,2011,Camping Equipment,Web,682108,38641034.87
+United States,2011,Golf Equipment,Web,152781,20461463.32
+United States,2011,Mountaineering Equipment,Web,213690,8514045.77
+United States,2011,Outdoor Protection,Web,391621,2347400.52
+United States,2011,Personal Accessories,Web,208195,9565467.96
+United States,2012,Camping Equipment,Fax,30172,1806995.28
+United States,2012,Golf Equipment,Fax,6386,615683.2
+United States,2012,Mountaineering Equipment,Fax,23417,780448.04
+United States,2012,Outdoor Protection,Fax,3728,23671.03
+United States,2012,Personal Accessories,Fax,11345,526361.62
+United States,2012,Camping Equipment,Sales visit,89796,5825404.7
+United States,2012,Golf Equipment,Sales visit,2371,780993.22
+United States,2012,Mountaineering Equipment,Sales visit,42537,1993651.86
+United States,2012,Outdoor Protection,Sales visit,13817,92385.69
+United States,2012,Personal Accessories,Sales visit,42218,2505159.25
+United States,2012,Camping Equipment,Special,324,81609.12
+United States,2012,Outdoor Protection,Special,1626,10798.96
+United States,2012,Personal Accessories,Special,151,13834.62
+United States,2012,Camping Equipment,Telephone,23034,2696128.73
+United States,2012,Mountaineering Equipment,Telephone,2155,111939.75
+United States,2012,Outdoor Protection,Telephone,20883,138779.39
+United States,2012,Personal Accessories,Telephone,14822,334858.12
+United States,2012,Camping Equipment,Web,1136016,68908006.62
+United States,2012,Golf Equipment,Web,242285,35065878.28
+United States,2012,Mountaineering Equipment,Web,498520,22686360.69
+United States,2012,Outdoor Protection,Web,218670,1402774.42
+United States,2012,Personal Accessories,Web,382561,18584466.62
+United States,2013,Camping Equipment,E-mail,5003,222016.45
+United States,2013,Golf Equipment,E-mail,2315,147802.35
+United States,2013,Mountaineering Equipment,E-mail,6582,216387.88
+United States,2013,Outdoor Protection,E-mail,191,1143.69
+United States,2013,Personal Accessories,E-mail,189,22698.76
+United States,2013,Camping Equipment,Fax,6954,510694.23
+United States,2013,Golf Equipment,Fax,4370,613965.29
+United States,2013,Mountaineering Equipment,Fax,8986,586027.04
+United States,2013,Outdoor Protection,Fax,1159,6338.32
+United States,2013,Personal Accessories,Fax,8380,223893.18
+United States,2013,Camping Equipment,Sales visit,159796,8678981.43
+United States,2013,Golf Equipment,Sales visit,8139,1161638.9
+United States,2013,Mountaineering Equipment,Sales visit,113399,4530242.38
+United States,2013,Outdoor Protection,Sales visit,4245,25905.46
+United States,2013,Personal Accessories,Sales visit,59891,4110045.83
+United States,2013,Camping Equipment,Web,787485,47080667.44
+United States,2013,Golf Equipment,Web,182253,26062316.85
+United States,2013,Mountaineering Equipment,Web,446687,17266980.72
+United States,2013,Outdoor Protection,Web,104966,685766.72
+United States,2013,Personal Accessories,Web,287575,14152213.71
